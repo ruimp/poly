@@ -1,0 +1,10 @@
+# Fdb version 3
+["pdflatex"] 1577094623 "proj2.tex" "proj2.pdf" "proj2" 1577094624
+  "/usr/share/texmf-dist/web2c/texmf.cnf" 1572595918 33301 a3134070eacafb10b1f371612ce2650d ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1576961144 8044940 7762acaed9ca66902ca142c630338852 ""
+  "aa.cls" 0 -1 0 ""
+  "proj2.aux" 1577094258 8163 a8be6ca73d0743cac6d8c7f7f40c2445 ""
+  "proj2.tex" 1577094622 19342 b22accbd06756b04c8b00170ff82aa27 ""
+  (generated)
+  "proj2.pdf"
+  "proj2.log"
